@@ -47,4 +47,11 @@
 
     </dependencyManagement>
 
+    <distributionManagement>
+        <repository>
+            <id>kepai365-repo</id>
+            <url>file:/Volumes/Backup/Repository</url>
+        </repository>
+    </distributionManagement>
+
 </project>
